@@ -1,0 +1,29 @@
+.titulo {
+    font-size: 18px;a
+    color: #000105; /* Azul */
+  }
+  .texto {
+    font-size: 14px;
+    color: rgb(229, 27, 27); /* Preto */
+  }
+
+  body {
+    background-color: rgb(109, 217, 120); /* Cinza claro */
+}
+
+body {
+    background-color: #f2f2f2; /* Cinza claro */
+}
+
+.diferenciado {
+    font-size: 16px;
+    color: #cc3399; /* Roxo */
+    font-weight: bold;
+}
+
+.diferenciado-titulo {
+    font-size: 18px;
+    color: #006600; /* Verde */
+    font-style: italic;
+}
+
